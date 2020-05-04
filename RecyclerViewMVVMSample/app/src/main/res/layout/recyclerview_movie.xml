@@ -136,7 +136,7 @@
                         tools:text="English" />
 
                     <Button
-                        android:id="@+id/button_book"
+                        android:id="@+id/buttonBook"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_alignParentEnd="true"
